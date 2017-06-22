@@ -1,0 +1,39 @@
+----------------------------------------------------------------
+Tue May 23 16:32:09 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-35b8-e859-000006445d00 
+on database directory memory:/home/zuz/School/Fi/PV168_Seminář_z_programování_Java/Projekt/PV168-dragon-rental/dragonrental-test with class loader sun.misc.Launcher$AppClassLoader@232204a1 
+Loaded from file:/home/zuz/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b12
+user.dir=/home/zuz/School/Fi/PV168_Seminář_z_programování_Java/Projekt/PV168-dragon-rental
+os.name=Linux
+os.arch=amd64
+os.version=4.10.15-200.fc25.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 23 16:32:12 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 057e4652-015c-35b8-e859-000006445d00 
+on database directory memory:/home/zuz/School/Fi/PV168_Seminář_z_programování_Java/Projekt/PV168-dragon-rental/reservationManager-test with class loader sun.misc.Launcher$AppClassLoader@232204a1 
+Loaded from file:/home/zuz/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b12
+user.dir=/home/zuz/School/Fi/PV168_Seminář_z_programování_Java/Projekt/PV168-dragon-rental
+os.name=Linux
+os.arch=amd64
+os.version=4.10.15-200.fc25.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 23 16:32:14 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance c50a10b0-015c-35b8-e859-000006445d00 
+on database directory memory:/home/zuz/School/Fi/PV168_Seminář_z_programování_Java/Projekt/PV168-dragon-rental/personmgr-test with class loader sun.misc.Launcher$AppClassLoader@232204a1 
+Loaded from file:/home/zuz/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b12
+user.dir=/home/zuz/School/Fi/PV168_Seminář_z_programování_Java/Projekt/PV168-dragon-rental
+os.name=Linux
+os.arch=amd64
+os.version=4.10.15-200.fc25.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

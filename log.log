@@ -1,0 +1,44 @@
+13:59:24.257 [AWT-EventQueue-0] DEBUG d.backend.ReservationManagerImpl - WHERE 
+13:59:24.266 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.275 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.278 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@44297f57 executed successfully.
+13:59:24.282 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.286 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.288 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@255b1811 executed successfully.
+13:59:24.289 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.292 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.293 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@5904e4de executed successfully.
+13:59:24.294 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 1
+13:59:24.298 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.299 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@ec777b3 executed successfully.
+13:59:24.300 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.304 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.306 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@79795c31 executed successfully.
+13:59:24.306 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 9
+13:59:24.310 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.311 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@24f8ea14 executed successfully.
+13:59:24.313 [AWT-EventQueue-0] DEBUG d.backend.ReservationManagerImpl - WHERE 
+13:59:24.317 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.321 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.322 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@69ba39f1 executed successfully.
+13:59:24.323 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.327 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.328 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@5cd07d5f executed successfully.
+13:59:24.329 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.333 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.335 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@f97f2dd executed successfully.
+13:59:24.336 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 1
+13:59:24.339 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.340 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@62848501 executed successfully.
+13:59:24.341 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 2
+13:59:24.344 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.345 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@47383acb executed successfully.
+13:59:24.346 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Searching for person by ID = 9
+13:59:24.350 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.351 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@35a21efe executed successfully.
+13:59:24.360 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:24.362 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@546c4334 executed successfully.
+13:59:24.366 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Listing all people:
+13:59:43.493 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Connection established.
+13:59:43.496 [AWT-EventQueue-0] INFO  d.backend.DragonManagerImpl - Statement org.apache.derby.client.am.ClientPreparedStatement42@b8b9999 executed successfully.
+13:59:43.497 [AWT-EventQueue-0] DEBUG d.backend.PersonManagerImpl - Listing all people:
